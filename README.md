@@ -41,5 +41,5 @@ py manage.py runserver
 
 Some Postman Screenshots 
 
-<img src='https://github.com/Knighthawk-Leo/RESTAPI_DRF_CRUD_JS/blob/main/crud01.png'>
-<img src='https://github.com/Knighthawk-Leo/RESTAPI_DRF_CRUD_JS/blob/main/crud01.png'>
+![CRUD GET](https://github.com/Knighthawk-Leo/RESTAPI_DRF_CRUD_JS/blob/main/crud01.png)
+![CRUD POST](https://github.com/Knighthawk-Leo/RESTAPI_DRF_CRUD_JS/blob/main/crud01.png)
