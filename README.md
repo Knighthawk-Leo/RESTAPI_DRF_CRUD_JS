@@ -37,3 +37,9 @@ py manage.py migrate
 py manage.py runserver
 ```
  Run Index.Html
+
+
+Some Postman Screenshots 
+
+<img src='https://github.com/Knighthawk-Leo/RESTAPI_DRF_CRUD_JS/blob/main/crud01.png'>
+<img src='https://github.com/Knighthawk-Leo/RESTAPI_DRF_CRUD_JS/blob/main/crud01.png'>
