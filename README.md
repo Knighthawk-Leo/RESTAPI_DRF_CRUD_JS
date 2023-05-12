@@ -3,12 +3,11 @@
 This is a Django Rest Framwework API  performing CRUD operations using a PostgreSQL database
 
 
-![](https://github.com/steve-njuguna-k/Django-CRUD-Operations-Using-PostgreSQL/blob/master/src/static/img/Screenshot-5.PNG)
 
 # Project Setup Instructions
 Git clone the repository 
 ```
-https://github.com/steve-njuguna-k/Django-CRUD-Operations-Using-PostgreSQL.git
+https://github.com/Knighthawk-Leo/RESTAPI_DRF_CRUD_JS.git
 ```
 Configure the database / Settings.py
 ```
